@@ -1,6 +1,6 @@
 name = "FFLAS_FFPACK_jll"
 uuid = "dfc7ee4e-f599-5c37-83b9-6493130c4cf0"
-version = "2.5.0+1"
+version = "2.5.0+2"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
